@@ -1,0 +1,25 @@
+{
+    "textures": [
+        "textures/player.png",
+        "textures/tiles.png"
+    ],
+	"fonts": [
+		{
+			"relFilePath": "fonts/eb_garamond.ttf",
+			"ptSize": 18
+		},
+		{
+			"relFilePath": "fonts/eb_garamond.ttf",
+			"ptSize": 36
+		},
+		{
+			"relFilePath": "fonts/eb_garamond.ttf",
+			"ptSize": 72
+		}
+	],
+	"sounds": [
+        "sounds/player_hurt.wav"
+    ],
+	"music": [
+    ]
+}
